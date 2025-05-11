@@ -1,0 +1,2 @@
+The goal of this project is to build an AI-powered course recommendation system that helps students discover the most relevant Cornell courses based on their interests, academic level (graduate/undergraduate), and grading preferences.
+The system uses semantic understanding rather than simple keyword matching, enabling it to recommend courses even if exact words don't match but the meaning is related.
